@@ -1,2 +1,2 @@
 # cat-photo-app
-My first lesson from freeCodeCamp
+My first lesson at freeCodeCamp
